@@ -1,0 +1,6 @@
+Tambahan :
+
+1. Mengganti warna background pada navbar dan card
+2. Menambahkan header pada setiap card
+3. Merapihkan card bagian detail friend
+4. Menambahkan judul pada bagian groups
